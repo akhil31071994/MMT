@@ -45,6 +45,13 @@ public class click_hotel extends MMTBase {
 		System.out.println("conflicts ");
 	}
 	
+	
+	@Test
+	public void newcode(){
+		
+		System.out.println("new change");
+	}
+	
 	@AfterMethod
 	public void aftermethod(){
 		
