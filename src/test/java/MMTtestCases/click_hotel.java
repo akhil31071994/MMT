@@ -37,6 +37,14 @@ public class click_hotel extends MMTBase {
 		
 	}
 	
+	
+	@Test
+	public void sfas(){
+		
+		
+		System.out.println("conflicts ");
+	}
+	
 	@AfterMethod
 	public void aftermethod(){
 		
