@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import Base.MMTBase;
-import resources.PageObject;
+import PageObjects.PageObject;
 import resources.URLProvider;
 
 public class click_hotel extends MMTBase {
