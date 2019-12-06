@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="MMTtestCases.click_hotel">
+        <methods>
+          <include name="beforeMethodClass"/>
+          <include name="aftermethod"/>
+          <include name="first"/>
+        </methods>
+      </class> <!-- MMTtestCases.click_hotel -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
