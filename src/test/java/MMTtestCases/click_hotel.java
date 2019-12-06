@@ -52,6 +52,11 @@ public class click_hotel extends MMTBase {
 		System.out.println("new change");
 	}
 	
+	@Test 
+	public void newmethod(){
+		
+		System.out.println("new method to merge with master");
+	}
 	@AfterMethod
 	public void aftermethod(){
 		
